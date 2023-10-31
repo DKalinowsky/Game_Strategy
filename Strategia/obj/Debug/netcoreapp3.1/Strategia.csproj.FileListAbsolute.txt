@@ -1,0 +1,13 @@
+C:\Users\dkali\source\repos\Strategia\bin\Debug\netcoreapp3.1\Strategia.exe
+C:\Users\dkali\source\repos\Strategia\bin\Debug\netcoreapp3.1\Strategia.deps.json
+C:\Users\dkali\source\repos\Strategia\bin\Debug\netcoreapp3.1\Strategia.runtimeconfig.json
+C:\Users\dkali\source\repos\Strategia\bin\Debug\netcoreapp3.1\Strategia.runtimeconfig.dev.json
+C:\Users\dkali\source\repos\Strategia\bin\Debug\netcoreapp3.1\Strategia.dll
+C:\Users\dkali\source\repos\Strategia\bin\Debug\netcoreapp3.1\Strategia.pdb
+C:\Users\dkali\source\repos\Strategia\obj\Debug\netcoreapp3.1\Strategia.csprojAssemblyReference.cache
+C:\Users\dkali\source\repos\Strategia\obj\Debug\netcoreapp3.1\Strategia.AssemblyInfoInputs.cache
+C:\Users\dkali\source\repos\Strategia\obj\Debug\netcoreapp3.1\Strategia.AssemblyInfo.cs
+C:\Users\dkali\source\repos\Strategia\obj\Debug\netcoreapp3.1\Strategia.csproj.CoreCompileInputs.cache
+C:\Users\dkali\source\repos\Strategia\obj\Debug\netcoreapp3.1\Strategia.dll
+C:\Users\dkali\source\repos\Strategia\obj\Debug\netcoreapp3.1\Strategia.pdb
+C:\Users\dkali\source\repos\Strategia\obj\Debug\netcoreapp3.1\Strategia.genruntimeconfig.cache
